@@ -12,5 +12,5 @@ LEARNER:)
  🌱 further I will be exploring the field of Data Science.
 
 
- ⚡"BUILD LIKE A BEST" ⚡
+ ⚡"BUILD LIKE THE BEST" ⚡
                            --LET'S GO!
