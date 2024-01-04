@@ -6,7 +6,7 @@
 </div>
   
 ## :smiley: About Me:
-<p> I am final year student at GCET, persuing BTECH, graduating in year 2025. I am an aspiring  Software Developer. I am comfortable with C++ for Data Structures and Algorithms. I have solved 150+ questions on leetcode and geeksforgeeks. I’m looking to collaborate on open-source projects.Usually, when I am not caught up with my college assignments, I like to try my hand at web development .
+<p> I am Pre-final year student at GCET, persuing BTECH, graduating in year 2025. I am an aspiring  Software Developer. I am comfortable with C++ for Data Structures and Algorithms. I have solved 150+ questions on leetcode and geeksforgeeks. I’m looking to collaborate on open-source projects.Usually, when I am not caught up with my college assignments, I like to try my hand at web development .
 </p>
 
 ## 🌐 Socials:
