@@ -6,12 +6,12 @@
 </div>
   
 ## :smiley: About Me:
-<p> I am Pre-final year student at GCET, persuing BTECH, graduating in year 2025. I am an aspiring  Software Developer. I am comfortable with C++ for Data Structures and Algorithms. I have solved 150+ questions on leetcode and geeksforgeeks. I’m looking to collaborate on open-source projects.Usually, when I am not caught up with my college assignments, I like to try my hand at web development .
+<p> I am Pre-final year student at GCET, persuing BTECH, graduating in year 2025. I am an aspiring  Software Developer. I am comfortable with C++ for Data Structures and Algorithms. I have solved 200+ questions on leetcode and geeksforgeeks. I’m looking to collaborate on open-source projects.Usually, when I am not caught up with my college assignments, I like to try my hand at web development .
 </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyali-narayan-856a28232/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/Shyali_Narayan/) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://hashnode.com/@Shyali) 
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://x.com/ila__yhs) 
 <br>
