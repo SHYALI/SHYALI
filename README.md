@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyali-narayan-856a28232/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/Shyali_Narayan/) 
+[![Leetcode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/Shyali_Narayan/) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://hashnode.com/@Shyali) 
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://x.com/ila__yhs) 
 <br>
